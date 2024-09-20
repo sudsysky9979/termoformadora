@@ -1,0 +1,3 @@
+#listadas todas las librerias que ocupemos
+PyQT6
+
