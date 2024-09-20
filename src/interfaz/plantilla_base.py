@@ -4,7 +4,7 @@ import sys
 class Ventana(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("riego")
+        self.setWindowTitle("Extrusor de cable")
 
         titulo=QLabel("Hola, bienvenido")
         self.setCentralWidget(titulo)

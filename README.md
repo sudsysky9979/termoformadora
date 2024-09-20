@@ -1,6 +1,6 @@
 # Sistema de riego
 
-## Requisitos parA instalacion 
+## Requisitos para instalacion 
 para poder instalar el programa debes hacer...
 
 ## instrucciones
